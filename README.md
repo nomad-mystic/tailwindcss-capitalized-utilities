@@ -9,9 +9,5 @@ $ npm install
 $ npm run build
 ```
 
-### Files
-* `src/test-utility.js`
-* `tailwind.config.js`
-
 ### Error
-![02-07-2025-utilities-bug.png](02-07-2025-utilities-bug.png)
+![02-13-2025-utility-at-rule.png](02-13-2025-utility-at-rule.png)

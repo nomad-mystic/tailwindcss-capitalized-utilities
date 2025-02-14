@@ -1,3 +1,5 @@
-@import 'tailwindcss';
+@import 'tailwindcss' source('./');
 
-@config '../tailwind.config.js';
+@utility tab-4 {
+    tab-size: 4;
+}
